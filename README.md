@@ -3,9 +3,9 @@
 <p align="center">
   📍 Ankara
   &nbsp;·&nbsp;
-  <a href="https://ardozcnn.github.io/website/">website</a>
+  <a href="https://ardozcnn.github.io">Website</a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/mustafa-arda-ozcan">linkedin</a>
+  <a href="https://www.linkedin.com/in/mustafa-arda-ozcan">LinkedIN</a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
