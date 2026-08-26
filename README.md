@@ -15,8 +15,8 @@
 
 <h3 align="center">Blog</h3>
 <p align="center">
-  <b><a href="https://ardozcnn.github.io/blog/acgozlu-kadro.html">Açgözlü sıralama yasal TFF kadrosu üretmez</a></b><br/>
-  TFF Fantezi Lig’de bütçe, mevki ve kulüp tavanı eşzamanlı kısıtlardır. Puana göre doldurmak bu kesişimi sağlamaz.
+  <b><a href="https://ardozcnn.github.io/blog/acgozlu-kadro.html">TFF Fantezi Lig kadrosunun tamsayı programı olarak kurulması</a></b><br/>
+  Bütçe, mevki ve kulüp tavanı eşzamanlı kısıtlardır. Sıralı seçim bu kesişimi sağlamaz.
 </p>
 
 <table>
