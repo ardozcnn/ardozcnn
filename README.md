@@ -1,11 +1,11 @@
 <h1 align="center">Arda Özcan</h1>
 <p align="center"><i>Modelleri uçuşa, kadroya ve karara bağlayan yazılımlar.</i></p>
 <p align="center">
-  📍 Ankara
+  📍 Ankara, TR
   &nbsp;·&nbsp;
   <a href="https://ardozcnn.github.io">Website</a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/mustafa-arda-ozcan">LinkedIN</a>
+  <a href="https://www.linkedin.com/in/mustafa-arda-ozcan">LinkedIn</a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
