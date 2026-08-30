@@ -1,5 +1,4 @@
 <h1 align="center">Arda Özcan</h1>
-<p align="center"><i>Modelleri uçuşa, kadroya ve karara bağlayan yazılımlar.</i></p>
 <p align="center">
   📍 Ankara, TR
   &nbsp;·&nbsp;
