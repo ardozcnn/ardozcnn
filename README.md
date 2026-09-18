@@ -1,19 +1,63 @@
-👋 Hi, I'm Arda.
+<p align="center"><samp>CODE · BIOSIGNALS · CURIOSITY</samp></p>
 
-I'm a science high school student in Ankara, Türkiye. I'm interested in software design, programming languages, and biology—especially how code and electronics can help us explore signals from the human body.
+<h1 align="center">Arda Özcan</h1>
 
-I enjoy projects that connect something physical to something I can program. My GSR sensor project brings these interests together: an ESP32 reads a skin-response sensor, and C++ code compares the readings with a calibrated baseline. It is a small experiment in biosensing, built to explore physiological signals rather than establish whether someone is telling the truth.
+<p align="center"><strong>Small experiments. Real signals. Thoughtful software.</strong></p>
 
-I'm also curious about the tools we use to write software: how a language shapes the way we express an idea, and how thoughtful design makes a program easier to understand and extend. I work with Python, C++, and TypeScript, and use my projects to keep learning.
+<p align="center">
+  Science high school student exploring biology through code and electronics.<br>
+  Curious about software design, programming languages, and what sensors can tell us about the human body.
+</p>
 
-A few projects I've been working on:
+<p align="center">
+  <a href="https://ardozcnn.github.io">Website</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/mustafa-arda-ozcan/">LinkedIn</a> &nbsp; / &nbsp;
+  Ankara, Türkiye
+</p>
 
-- [GSR Sensor](https://github.com/ardozcnn/gsr-yalan-dedektoru) — an ESP32-based prototype for exploring galvanic skin response, with sensor readings and LED feedback.
-- [Aero Orbit](https://github.com/ardozcnn/aero-orbit) — a Python flight-trajectory simulation that accounts for gravity, mass, and air resistance.
-- [Aurea](https://github.com/ardozcnn/aurea) — a project exploring football player valuation through performance data.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-18181B?style=flat-square&amp;logo=python&amp;logoColor=7DD3FC" alt="Python">
+  <img src="https://img.shields.io/badge/C%2B%2B-18181B?style=flat-square&amp;logo=cplusplus&amp;logoColor=A5B4FC" alt="C++">
+  <img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&amp;logo=typescript&amp;logoColor=7DD3FC" alt="TypeScript">
+  <img src="https://img.shields.io/badge/ESP32-18181B?style=flat-square&amp;logo=espressif&amp;logoColor=5EEAD4" alt="ESP32">
+</p>
 
-🧬 I'd like to explore more projects involving biosignals, sensors, and the connection between biology and software.
+<br>
 
-💬 I speak Turkish and English, and I'm learning German.
+<h3 align="center">What keeps me curious</h3>
 
-🔗 [Website](https://ardozcnn.github.io) · [LinkedIn](https://www.linkedin.com/in/mustafa-arda-ozcan/)
+<p align="center">
+  <strong>Biology &amp; electronics</strong><br>
+  Measuring physiological signals and learning how to interpret them.
+</p>
+
+<p align="center">
+  <strong>Software &amp; language</strong><br>
+  How programs are structured, how languages express ideas, and how to make code clearer.
+</p>
+
+<br>
+
+<h3 align="center">Selected experiments</h3>
+
+<p align="center">
+  <a href="https://github.com/ardozcnn/gsr-yalan-dedektoru"><strong>GSR Sensor</strong></a><br>
+  Exploring galvanic skin response with an ESP32, C++, and LED feedback.<br>
+  <sub>An educational biosensing prototype.</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ardozcnn/aero-orbit"><strong>Aero Orbit</strong></a><br>
+  Simulating flight trajectories with gravity, mass, and air resistance.<br>
+  <sub>Python · physics · simulation</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ardozcnn/aurea"><strong>Aurea</strong></a><br>
+  Exploring football player valuation through performance data.<br>
+  <sub>Python · data analysis</sub>
+</p>
+
+<br>
+
+<p align="center"><samp>LEARNING BY BUILDING, ONE QUESTION AT A TIME.</samp></p>
